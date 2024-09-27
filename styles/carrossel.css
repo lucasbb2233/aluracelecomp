@@ -24,18 +24,17 @@
 
 .card__descrição {
   display: flex;
-  justify-content: space-between;
+ 
 }
 
 .card__botões {
   display: flex;
-  justify-content: space-between;
+  
 }
 
 .botões {
   display: flex;
-  justify-content: space-between;
-}
+  
 
 .card {
   background: var(--branco);
