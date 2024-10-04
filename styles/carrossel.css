@@ -18,11 +18,6 @@
 }
 
 
-.card__descrição {
-  display: flex;
-  justify-content: space-between;
-  position: initial;
-}
 
 
 .swiper-pagination {
@@ -30,6 +25,12 @@
   margin: .5em 0;
 }
 
+.card__descrição {
+  display: flex;
+  justify-content: space-between;
+  position: initial;
+  margin: .5em 0;
+}
 
 
 .card__botões {
