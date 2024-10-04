@@ -18,12 +18,11 @@
 }
 
 
-
-
 .swiper-pagination {
   position: initial;
   margin: .5em 0;
 }
+
 
 .card__descrição {
   display: flex;
