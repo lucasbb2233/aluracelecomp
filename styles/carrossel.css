@@ -70,12 +70,12 @@
   font-weight: 700;
   text-decoration: none;
 }
-
+//Código omitido
 .botões__item {
   margin: 0 0.5em;
 }
 
-
+//Código omitido
 @media screen and (min-width: 1024px) {
   .carrossel__titulo {
       font-size: 26px;
@@ -96,7 +96,6 @@
   }
 }
 
-//Código omitido
 
 @media screen and (min-width: 1728px) {
     .carrossel_container {
