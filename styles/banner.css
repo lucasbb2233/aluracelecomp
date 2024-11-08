@@ -51,10 +51,10 @@
 
 
 @media screen and (min-width: 1728px) {
-    .banner_pesquisa {
+    .banner__pesquisa {
         width: 35%;
     }
-    .banner_pesquisa:: placeholder {
+    .banner__pesquisa:: placeholder {
         background-position: 12em;
     }
     .banner {
